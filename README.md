@@ -1,6 +1,8 @@
 
 # Sentiment Analysis using LSTM
 
+![Sentiment-analysis-NLP-project](https://github.com/Ganesh-xvi/Sentiment-Analysis-using-LSTM/assets/134574667/22d97f34-955f-4122-88a3-cc6e5f955601)
+
 This GitHub repository contains code for sentiment analysis using Long Short-Term Memory (LSTM) neural networks. The project focuses on analyzing McDonald's customer reviews to classify sentiments as positive, negative, or neutral. The sentiment analysis model is implemented in Python using TensorFlow and Keras.
 
 
